@@ -59,7 +59,7 @@ register.</p>
 // DB connection info
 // TODO: Update the values for $host, $user, $pwd, and $db //using the values you retrieved
 earlier from the Azure Portal. $host = "value of Data Source";
-$host = "ruapserver.mysql.database.azure.com"";
+$host = "ruapserver.mysql.database.azure.com";
 $user = "jgiiathcaq";
 $pwd = "$fhX1RAkaxj4qmo2";
 $db = "ruap_db";
